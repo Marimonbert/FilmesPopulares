@@ -1,2 +1,2 @@
 # FilmesPupulares
-Usando conexão com API do TheMovieDb, o APP consegue fazer a conexão e listar todos os filmes mais populares do momento.
+se conectando com API do TheMovieDb através da biblioteca Retrofit, o APP consegue listar todos os filmes mais populares do momento, usando a biblioteca RecycleView.
